@@ -34,4 +34,3 @@ This command permanently removes the stopped `nginx-server` container.
 
 ### Screenshot
 
-![Container Lifecycle](screenshots/container-lifecycle.png)
